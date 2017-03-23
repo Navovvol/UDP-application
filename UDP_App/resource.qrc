@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>form.ui</file>
+        <file>icons/1458741126_Save.ico</file>
+        <file>icons/1458741693_exit.ico</file>
+        <file>icons/add1.ico</file>
+        <file>icons/add1.png</file>
+        <file>icons/books_folder_2.ico</file>
+        <file>icons/Button.PNG</file>
+        <file>icons/ButtonNone.PNG</file>
+        <file>icons/download_server.ico</file>
+        <file>icons/edit_add.ico</file>
+        <file>icons/edit_remove.ico</file>
+        <file>icons/exchange(1).png</file>
+        <file>icons/exchange_UPD.png</file>
+        <file>icons/folderopen2_3032.ico</file>
+        <file>icons/graph_add_1888.ico</file>
+        <file>icons/graph_pause.png</file>
+        <file>icons/graph_play.png</file>
+        <file>icons/gtk_media_record.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/OK.PNG</file>
+        <file>icons/upload_server.ico</file>
+        <file>icons/window_fullscreen_4294.ico</file>
+        <file>icons/window_nofullscreen_6672.ico</file>
+        <file>formSend.ui</file>
+    </qresource>
+</RCC>
